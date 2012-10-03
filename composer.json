@@ -1,0 +1,19 @@
+{
+    "name": "gonzalo123/KataTennis",
+    "description": "Tennis Katta http://codingdojo.org/cgi-bin/wiki.pl?KataTennis",
+    "authors": [
+        {
+            "name": "Gonzalo Ayuso",
+            "email": "gonzalo123@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+
+    "autoload": {
+        "psr-0": {
+            "": "lib/"
+        }
+    }
+}
